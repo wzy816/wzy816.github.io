@@ -1,0 +1,26 @@
+baseURL = "https://wzy816.github.io"
+languageCode = "en-us"
+title = "z's blog"
+copyright = "©"
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=7
+
+[params]
+	mode="light" # light,dark,toggle 
+	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
+	mathjax = false
+	katex = false
+	
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
