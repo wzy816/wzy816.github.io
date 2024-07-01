@@ -2,7 +2,7 @@
 title: "excerpts 2406"
 date: 2024-06-19
 lastmod: 2024-06-29
-draft: true
+tags: [note]
 ---
 
 最近刷的 rss feed、看过的文章、读过的书和听过的播客。
@@ -267,7 +267,5 @@ draft: true
 > 非常伟大的、普遍的信仰，它们的数量是非常有限的，真正的文明的基础便由这些信仰构成，这些信仰的兴衰，是历史上每一个文明种族的大事件。
 
 ## [贝望录 143. AI 都去上影节了！导演还活得下去吗？](https://www.xiaoyuzhoufm.com/episode/665ec9b263c334a2fb437d15)
-
-## [不合时宜：突破“性缘与浪漫爱”的情感，会让关系更好吗？](https://www.xiaoyuzhoufm.com/episode/667de17ec13b46d76c5e80dd)
 
 ## [知行小酒馆：哲学不提供终极答案，但这件利器能帮你走稳良好生活的第 0 步](https://www.xiaoyuzhoufm.com/episode/667e33a73a6b0a1f45171232)
